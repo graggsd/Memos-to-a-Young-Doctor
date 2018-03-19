@@ -13,6 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://cocky-jones-b5134b.netlify.com/"
+# baseURL = "dataandmedicine.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
