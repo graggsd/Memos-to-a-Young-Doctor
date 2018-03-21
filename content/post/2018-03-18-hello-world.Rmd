@@ -12,9 +12,10 @@ The blog proudly takes its name from the classic work by Richard Selzer,
 [Letters to a Young Doctor](https://www.amazon.com/Letters-Young-Doctor-Harvest-Book/dp/0156003996/ref=sr_1_1?ie=UTF8&qid=1521429131&sr=8-1&keywords=letters+to+a+young+doctor), which (as the name implies) recounts the advice and tales of
 of experience passed on from a segacious older physician to his young protege.
 
-Though I am neither segacious, nor a physician (as of yet), I have learned 
+I myself am a 5th year MD/PhD.
+Though I am neither segacious, nor a physician (yet), I have learned 
 some few lessons over the past years of my training, most often through trial
-and painful error. That said, this is not an advice blog in the sense that I 
+and error. That said, this is not an advice blog in the sense that I 
 would presume to understand your circumstances or know what is best for you. 
 Nevertheless, I hope to share some of these lessons I have learned
 and to recount those strategies which have and have not worked for me. Also, 
@@ -23,7 +24,7 @@ succinct and practical as often as I am able.
 
 I hope in reading this blog, you will be armed with slightly more knowledge 
 than I had at your stage, and that it will leave you with a greater sense of
-confidence in tackling the challenges to come. 
+confidence in tackling the challenges to come.
 
 I wish all of you the best of luck and hope that you stay idealistic, humble,
 and always eager to learn more and to help others.
