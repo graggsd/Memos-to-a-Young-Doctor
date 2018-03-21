@@ -12,7 +12,7 @@ The blog proudly takes its name from the classic work by Richard Selzer,
 [Letters to a Young Doctor](https://www.amazon.com/Letters-Young-Doctor-Harvest-Book/dp/0156003996/ref=sr_1_1?ie=UTF8&qid=1521429131&sr=8-1&keywords=letters+to+a+young+doctor), which (as the name implies) recounts the advice and tales of
 of experience passed on from a segacious older physician to his young protege.
 
-I myself am a 5th year MD/PhD.
+I myself am a 5th year MD/PhD student.
 Though I am neither segacious, nor a physician (yet), I have learned 
 some few lessons over the past years of my training, most often through trial
 and error. That said, this is not an advice blog in the sense that I 
